@@ -1,0 +1,25 @@
+Задание 1:
+
+var Tc = 36;
+undefined
+var Tf;
+undefined
+alert (Tf=(9 / 5) * Tc + 32)
+
+
+Задание 2:
+
+let admin;
+undefined
+let name = "Василий";
+undefined
+admin = name;
+'Василий'
+console.log (admin);
+bundle.min.js:2 Василий
+
+Задание 3:
+
+console.log (1000 + "108");
+bundle.min.js:2 1000108
+undefined
